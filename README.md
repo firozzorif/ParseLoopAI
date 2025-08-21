@@ -98,7 +98,7 @@ Expected Output ✅:
 
 ## ⚙️ How the Agent Works
 
-```mermaid
+```
 flowchart LR
     A[Start Agent] --> B[Plan: Understand target bank PDF]
     B --> C[Generate Parser Code]
