@@ -158,7 +158,7 @@ It integrates directly with **Groq & Gemini APIs**, enabling a self-correcting c
 
 ---
 
-## 📌 Evaluation Criteria
+## 📌 Checks
 
 ✔️ **Agent Autonomy** (self-debug loop)
 ✔️ **Code Quality** (clear, modular)
