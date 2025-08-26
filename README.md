@@ -2,7 +2,7 @@
 
 ---
 
-# 🧠 Agent-as-Coder Challenge
+# 🧠 ParseLoopAI
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![AI Agent](https://img.shields.io/badge/AI-Agent-success)
